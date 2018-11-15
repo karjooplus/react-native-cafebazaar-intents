@@ -1,13 +1,22 @@
 {
   "name": "react-native-cafebazaar-intents",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "cafebazaar native intents for react native",
   "main": "index.js",
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": {
+    "name": "Libin Lu"
+  },
+  "bugs": {
+    "url": "https://github.com/karjooplus/react-native-cafebazaar-intents/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karjooplus/react-native-cafebazaar-intents.git"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.55.0"
   }

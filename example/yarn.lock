@@ -4617,7 +4617,7 @@ react-is@^16.6.1:
   integrity sha512-u7FDWtthB4rWibG/+mFbVd5FvdI20yde86qKGx4lVUTWmPlSWQ4QxbBIrrs+HnXGbxOUlUzTAP/VDmvCwaP2yA==
 
 react-native-cafebazaar-intents@../:
-  version "1.0.0"
+  version "0.0.1"
 
 react-native@0.57.5:
   version "0.57.5"
