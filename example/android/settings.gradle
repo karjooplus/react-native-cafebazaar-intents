@@ -1,0 +1,5 @@
+rootProject.name = 'cafebazaarintentsexample'
+include ':react-native-cafebazaar-intents'
+project(':react-native-cafebazaar-intents').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-cafebazaar-intents/android')
+
+include ':app'

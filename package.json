@@ -1,0 +1,14 @@
+{
+  "name": "react-native-cafebazaar-intents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.55.0"
+  }
+}
