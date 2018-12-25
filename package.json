@@ -1,6 +1,6 @@
 {
   "name": "react-native-cafebazaar-intents",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cafebazaar native intents for react native",
   "main": "index.js",
   "keywords": [
